@@ -111,7 +111,7 @@ const SignUp = () => {
               {loading ? (
                 <span className="loading loading-spinner"></span>
               ) : (
-                Зареєструватися
+                "Зареєструватися"
               )}
             </button>
           </div>
