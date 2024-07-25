@@ -18,7 +18,6 @@ The MERN-stack chat application, made just for educational purposes.
 ### For run follow this commands:
 
 ```sh
-$ git clone https://github.com/mrkotyuk/AstroChat.git
 $ npm run build
 $ npm start
 ```
