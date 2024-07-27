@@ -24,3 +24,12 @@ $ npm start
 ```
 
 #### After build, application will be available on: http://localhost:5000
+
+### Conf .env file
+
+```shell
+PORT=5000
+NODE_ENV=development # remove this key before delpoyment
+MONGO_DB_URI==your_mongo_uri
+JWT_SECRET=your_jwt_secret_key
+```
