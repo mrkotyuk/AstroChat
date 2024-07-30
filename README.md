@@ -29,7 +29,7 @@ $ npm start
 
 ```shell
 PORT=5000
-NODE_ENV=development # remove this key before delpoyment
+NODE_ENV=development # remove this key before deployment
 MONGO_DB_URI==your_mongo_uri
 JWT_SECRET=your_jwt_secret_key
 ```
